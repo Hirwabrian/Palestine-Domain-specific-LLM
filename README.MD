@@ -12,7 +12,7 @@ We believe that:
 - **Counter-Hegemonic AI:** Large Language Models (LLMs) are often "colonized" by Western-centric training data. Fine-tuning is a technical reclamation, forcing the model to prioritize the material reality of the oppressed over the "passive neutrality" of the oppressor.
 - **Neural Solidarity:** By embedding Palestinian narratives into a neural network, we create a tool that moves beyond dictionary definitions to provide structural critiques of occupation, apartheid, and the struggle for sovereignty.
 
-## 2\. The Dataset: Palestine Dataset 📊
+## 2\. The Dataset: Palestine Dataset
 
 The model is trained on a curated corpus focused on authentic Palestinian history, narratives, and reporting.
 
@@ -92,3 +92,4 @@ This project uses a **Hybrid Infrastructure** to balance accessibility with high
 The code in this repository is provided under the **Unlicense**. Content from source websites remains under their respective original licenses.
 
 **Contact:** [Hirwa Armstrong Brian](Armstronghirwa5@gmail.com)
+
